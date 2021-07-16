@@ -9,4 +9,4 @@
 # 東儒的Python挑戰
 
 * ## Week1:1~100數字猜謎
-* [點這裡]()
+* [點這裡](https://github.com/yuanahanlei/Others/tree/main/week1)
